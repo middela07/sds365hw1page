@@ -1,0 +1,11 @@
+---
+title: "Naina Middela"
+image: "naina.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/naina-middela/"
+output:
+  postcards::jolla
+---
+ 
+I am a computer science student at The University of Texas at Austin passionate about AI, data science, and human-computer interaction. I love building innovative solutions at the intersection of technology and the environment, from LLM research projects to robotics. With a background in open-source development and hands-on experimentation, I'm always exploring ways to make AI more intuitive and impactful.
