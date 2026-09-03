@@ -5,7 +5,29 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/naina-middela/"
 output:
-  postcards::jolla
+  postcards::solana
 ---
+
+
+## Bio
  
 I am a computer science student at The University of Texas at Austin passionate about AI, data science, and human-computer interaction. I love building innovative solutions at the intersection of technology and the environment, from LLM research projects to robotics. With a background in open-source development and hands-on experimentation, I'm always exploring ways to make AI more intuitive and impactful.
+
+### Work Experience
+* IBM - AI Engineer Intern, Global Sales
+* Sandia National Labs - Tech Intern, Knowledge Systems
+* Aristocrat Gaming & Leisure - AI Intern, Quality Assurance
+
+### Research Experience
+* Technology National Security Research Partnership (TeNSR)
+  + Partnership between the Strauss Center & Applied Research Laboratories to apply tech research to problems in national security, defense, & public service.
+* Living with Robots Laboratory
+* UT Humanities Institute - Faculty-Student Research Program
+
+Naina's website was created:
+```{r, echo=FALSE, comment=""}
+cat(format(Sys.time(), "%Y-%m-%d %H:%M:%S"))
+```
+
+
+
